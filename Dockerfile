@@ -1,1 +1,1 @@
-FROM yandex/iccub_school:0.3
+FROM yandex/iccub_school:0.4
